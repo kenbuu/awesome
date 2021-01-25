@@ -99,7 +99,7 @@ const App = (props) => {
                 marginTop: 100,
               }
             }
-          >Welcome to TTOS</Text>
+          >Welcome to TTOS111111111</Text>
         </ImageBackground>
         <View style={{ display: 'flex', flexDirection: 'column', marginLeft: 10, marginRight: 10, marginTop: '40%', alignItems: "center" }}>
           <TextInput
